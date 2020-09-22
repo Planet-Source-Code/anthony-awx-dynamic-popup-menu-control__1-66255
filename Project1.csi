@@ -1,0 +1,16 @@
+[History]
+B0=Project1/frmDynamicMenuSample
+B1=Project1/DynamicPopupMenu/GetItemCaption
+B2=Project1/DynamicPopupMenu/UserControl_Terminate
+B3=Project1/frmDynamicMenuSample/Command2_Click
+B4=Project1/frmDynamicMenuSample/Command1_Click
+B5=Project1/Form1/Command1_Click
+B6=Project1/DynamicPopupMenu/Popup
+B7=Project1/DynamicPopupMenu/Caption
+B8=Project1/DynamicPopupMenu/Hwnd
+B9=Project1/DynamicPopupMenu/Class_Terminate
+B10=Project1/DynamicPopupMenu/Show
+B11=Project1/DynamicPopupMenu/Add
+B12=Project1/DynamicPopupMenu
+B13=Project1/UserControl1
+B14=Project1/clsDynamicPopupMenu
